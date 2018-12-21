@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\surprise_un\surprise_un\bin\Debug\surprise_un.exe.config
+C:\Users\Moi\Desktop\surprise_un\surprise_un\bin\Debug\surprise_un.exe
+C:\Users\Moi\Desktop\surprise_un\surprise_un\bin\Debug\surprise_un.pdb
+C:\Users\Moi\Desktop\surprise_un\surprise_un\obj\Debug\surprise_un.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\surprise_un\surprise_un\obj\Debug\surprise_un.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\surprise_un\surprise_un\obj\Debug\surprise_un.exe
+C:\Users\Moi\Desktop\surprise_un\surprise_un\obj\Debug\surprise_un.pdb
